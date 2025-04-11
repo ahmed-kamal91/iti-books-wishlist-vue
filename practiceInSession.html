@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="app">
+
+        <!-- view data + one way binding -->
+        <p :title="msg">my name is {{name}}</p>
+
+        <!-- two way binding -->
+        <input v-model="name" value="name">
+
+    </div>
+
+
+
+
+    <!-- link vue -->
+    <script src="vue.js"></script>
+    
+
+    <script>
+        // instance creation + mount
+        app = Vue.createApp({
+            data: ()=>({
+                msg: "first message in vue",
+                grades: [{sub:"English", grade: 18},{sub: "Math", grade: 20}],
+                name: "Ahmed"
+            }),
+
+            methods: {
+                showMessage(){
+                    alert("first alert in vue");
+                }
+
+            }
+        }).mount("#app");
+    </script>
+    
+</body>
+</html>
