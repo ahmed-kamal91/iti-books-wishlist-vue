@@ -6,7 +6,8 @@ The app simulates a simple book wishlist system with the following main features
 
 # 🎥 Video Preview
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1g50UrAFbrI_pEEQM2v1cF5c14vHDxdP1/view?usp=sharing)
+[![Watch the video](https://img.youtube.com/vi/f42drekElb4/0.jpg)](https://www.youtube.com/watch?v=f42drekElb4&autoplay=1)
+
 
 
 # 🌐 Live Preview
