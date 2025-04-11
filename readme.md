@@ -5,7 +5,8 @@ This is a practice project built with **Vue.js** as part of my learning journey 
 The app simulates a simple book wishlist system with the following main features:
 
 # 🎥 Video Preview
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/15h9Ctetn-8bHm6kC_be3teJPC-27lXu9/view?usp=sharing)
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1g50UrAFbrI_pEEQM2v1cF5c14vHDxdP1/view?usp=sharing)
 
 
 # 🌐 Live Preview
