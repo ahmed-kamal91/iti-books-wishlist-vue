@@ -22,14 +22,13 @@ The app simulates a simple book wishlist system with the following main features
 
 - Vue.js (Options API / Composition API — depending on what you used)
 - HTML & CSS
-- (Optional) Bootstrap or TailwindCSS — if you used any UI framework
+- Bootstrap 
 
 ## 📖 Learning Goals
 
-- Practice Vue components and reactive state
-- Implement dynamic UI updates
-- Handle user interaction and list rendering
-- Strengthen fundamentals of frontend development
+- ✅ Implement dynamic UI updates
+- ✅ Handle user interaction and list rendering
+- ✅ Basic responsive layout using CSS for better viewing on different screen sizes.
 
 ## 📁 Project Structure
 
@@ -47,7 +46,8 @@ src/
 
 ## 📸 Screenshots
 
-*(Optional: Add screenshots of your app if you want!)*
+![image](https://github.com/user-attachments/assets/79a87402-3db0-41a8-aecb-641fac281b91)
+
 
 ## 🧠 Author
 
