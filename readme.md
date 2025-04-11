@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📚 Vue Book Wishlist
 
 This is a practice project built with **Vue.js** as part of my learning journey at the **Information Technology Institute (ITI)**.
@@ -55,8 +52,3 @@ src/
 ## 🧠 Author
 
 Made with ❤️ by a student at **ITI (Information Technology Institute)**.
-
----
-
-```
-
