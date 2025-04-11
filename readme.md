@@ -4,6 +4,17 @@ This is a practice project built with **Vue.js** as part of my learning journey 
 
 The app simulates a simple book wishlist system with the following main features:
 
+# 🎥 Video Preview
+Watch a quick demo of the project in action:
+▶️ [Click here to watch the video demo](https://drive.google.com/file/d/15h9Ctetn-8bHm6kC_be3teJPC-27lXu9/view?usp=sharing)
+
+
+
+# 🌐 Live Preview
+
+Experience the app in action right here:
+https://ahmed-kamal91.github.io/iti-books-wishlist-vue/
+
 ## 🚀 Features
 
 - A **navbar** with:
@@ -45,7 +56,7 @@ src/
 ```
 
 ## 📸 Screenshots
-
+give a look: https://ahmed-kamal91.github.io/iti-books-wishlist-vue/
 ![image](https://github.com/user-attachments/assets/79a87402-3db0-41a8-aecb-641fac281b91)
 
 
